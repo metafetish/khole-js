@@ -1,7 +1,7 @@
 # kHole (Javascript Version)
 
 Reverse engineered drivers for the
-`Minna kGoal <http://www.minnalife.com/products/kgoal>`__ kegel
+[Minna kGoal](http://www.minnalife.com/products/kgoal) kegel
 exerciser.
 
 ## Description
