@@ -4,6 +4,8 @@ Reverse engineered drivers for the
 [Minna kGoal](http://www.minnalife.com/products/kgoal) kegel
 exerciser.
 
+Python version at [khole-py](https://github.com/metafetish/khole-py).
+
 ## Description
 
 The kGoal is a Bluetooth LE Kegelcizer device, made to communicate
